@@ -52,6 +52,3 @@ Este é um badge conquistado por ter desenvolvido este projeto com a Alura no pr
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões, correções de bugs ou melhorias através de issues e pull requests.
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE)
